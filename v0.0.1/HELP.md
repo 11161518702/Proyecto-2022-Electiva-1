@@ -6,7 +6,7 @@ Este proyecto es usado como ejemplo en el curso de "Computación móvil" en uan.
 
 ## Documentación del proyecto
 
-Encontrará toda la documentación del proyecto en la carpeta [docs](docs/readme.md).
+Encontrará toda la documentación del proyecto en la carpeta [docs](docs/README.md).
 
 ## Como usar este proyecto
 
