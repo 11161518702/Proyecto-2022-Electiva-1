@@ -10,22 +10,16 @@
 
 ## Funcionalidades de usuario
 
-UANCasts le permitirá al usuario consultar e interactuar con Podcasts de distintos tópicos a través de una interfaz amigable. El usuario podrá:
+Graffits le permitirá al usuario consultar e interactuar con distintos artistas. El usuario podrá:
 
-1. Ver una lista de los podcasts disponibles: Al ingresar a la aplicación verá una lista de los podcasts disponibles en Listen Notes.
+1. De principio saldra el inicio de sesion, en donde podra ingresar por un usuario o correo electrónico y encaso de no contar con esto, podra registarse.
 
-2. Seleccionar un podcast  ver los episodios disponibles para ese podcast: Desde la pantalla inicial podrá seleccionar cualquier podcast y ver la lista de episodios disponibles. El primer episodio se reproducirá de forma automática.
+2. Ver un menu de de los diferentes artistas.
 
-3. Ir al sitio web del Podcast (si existe): Si el Podcast tiene un sitio web podrá abrirlo en el navegador por defecto en su celular.
+3. Al seleccionar a un artista, podra ver la información basica del artista y descripción de su trabajo.
 
-4. Reproducir episodios de podcast: Desde la lista de episodios podrá reproducir cualquiera de ellos.
+4. Tambien podra ver el portafolio, endonde encontrara fotografias de las distintas obras.
 
-5. Adelantar la reproducción de un podcast: Podrá adelantar la reproducción en intervalos de 15 segundos.
+5. Hay un boton redondo con un mas, en donde si le dan podran contartar al artista.
 
-6. Retrasar la reproducción de un podcast: Podrá regresar la reproducción en intervalos de 15 segundos.
-
-7. Buscar podcasts por nombre: Al ir a la ventana de búsqueda podrá navegar buscando el nombre de su podcast de interés.
-
-8. Votar por los podcasts favoritos: En cada Podcast tendrá una opción para votar por el podcast. La votación será personal y estará disponible solo desde el dispositivo.
-
-9. Ver los podcasts favoritos: Podrá ir a la 
+6. ----------.
