@@ -3,7 +3,7 @@
 Todos los cambios representativos del proyecto serán documentados en este archivo. Este formato esta basado en ["Keep a Changelog"](https://keepachangelog.com/en/1.0.0/), y este proyecto se adhiere al uso de [versionamiento semántico](https://semver.org/spec/v2.0.0.html).
 
 
-## [0.0.2](../tree/0.0.2) - 2022-08-30
+## [0.0.3](../tree/0.0.3) - 2022-08-30
 
 ### Agregado
 
