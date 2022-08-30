@@ -14,7 +14,7 @@ Todos los cambios representativos del proyecto serán documentados en este archi
 - Errores de ortografía y algunos links
 
 
-## [0.0.1](../v0.0.1) - 2022-08-09
+## [0.0.1](https://github.com/11161518702/Proyecto-2022-Electiva-1/tree/wjfatuan/v0.0.1) - 2022-08-09
 
 ### Agregado
 
